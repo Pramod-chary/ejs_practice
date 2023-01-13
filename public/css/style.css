@@ -1,0 +1,29 @@
+.heading {
+  color: blue;
+  background-color: aqua;
+  border-bottom: 2px solid #ffe4c4;
+  text-align: center;
+}
+
+.button {
+  color: blueviolet;
+  font-weight: bolder;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  right: 20%;
+  font-size: 20px;
+}
+.add-button {
+  top: 5%;
+}
+.main-div {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.input {
+  max-width: 300px;
+  margin-left: 45%;
+}
